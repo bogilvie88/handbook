@@ -1,5 +1,5 @@
 ---
-title: Chicago
+title: Sacramento
 ---
 
 <div class="table-wrapper">
@@ -47,27 +47,12 @@ title: Chicago
 
 ### <a id="from-ohare"></a>From O&rsquo;Hare International Airport
 
-Public transit is from O'Hare to the 18F Chicago office is cheap, fairly quick, and convenient. Blue Line trains run from the airport to downtown 24/7 and take about 50 minutes. The closest stop to the office is **Jackson**.
+Civicactions is establishing a Sacramento virtual office to serve the state of California and the Agile Development Pool Qualifiers (ADPQ).
 
-### <a id="from-midway"></a>From Midway Airport
-
-The smaller of the two Chicago airports, this one is a little closer to downtown-- it's only a 25 minute ride down the CTA Orange Line. The **Library/State & Van Buren** stops are the closest to the 18F office on your way in, though we recommend getting on at **Adams/Wabash** on your way out (unless you want to get a tour of the entire Chicago loop). While the Orange Line doesn't run 24/7 like the Blue, it does have regular service between 4:30 a.m. and 1 a.m., covering pretty much any reasonable flight departure/arrival times.
-
-### <a id="walking"></a>Walking
-
-Chicago is a very walkable city; plenty of hotels, coffee shops, restaurants, and bars are within walking distance of the office. Grant Park and the lakefront (including the lakefront path) are all close by.
 
 ### <a id="biking"></a>Biking
 
-Short-term bikes can be rented via [Divvy](https://www.divvybikes.com/). $9.95 buys a 24-hour pass with unlimited 30-minute rides.
-
-### <a id="public-transit"></a>Public transit
-
-Chicago is extremely accessible by public transportation. Taxis are available but aren't generally necessary for getting around.
-
-To take full advantage of Chicago's CTA trains and buses, we recommend getting a [Ventra card](https://www.ventrachicago.com/), available at any CTA train station. Ventra cards require a $5 deposit, which is refundable after registering, and the card stays valid for 5 years.
-
-Fares from (but not to) either airport cost $5. All other normal fares are $2.25, and include one transfer to another CTA bus or train for $0.25 plus one free additional transfer if made within two hours of boarding.
+Short-term bikes can be rented locally.  CivicActions encourages it's employees to rent or buy bikes as the primary mode of transportation to and from the California Welfare office.
 
 ### <a id="parking"></a>Parking
 
